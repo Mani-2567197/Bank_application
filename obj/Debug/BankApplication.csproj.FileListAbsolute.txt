@@ -1,0 +1,8 @@
+E:\C#\Exercises\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+E:\C#\Exercises\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+E:\C#\Exercises\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+E:\C#\Exercises\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+E:\C#\Exercises\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+E:\C#\Exercises\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
